@@ -1,0 +1,46 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1,h2{
+    font-family: cursive;
+    text-align: center;
+}
+
+h3{
+    font-family: cursive;
+    position: fixed;
+    top: 35vh;
+    left: 45vw;
+    font-size: 25px;
+}
+
+div:nth-of-type(1){
+    position: fixed;
+    left: 5vw;
+    font-size: 20px;
+    top: 15vh;
+}
+
+div:nth-of-type(2){
+    position: fixed;
+    left: 5vw;
+    top: 45vh;
+    font-size: 20px;
+}
+
+h4{
+    font-family: cursive;
+    position: fixed;
+    top: 80vh;
+    right: 30vw;
+    font-style: italic;
+    font-size: 20px;
+}
+
+a{
+    position: fixed;
+    top: 95vh;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
